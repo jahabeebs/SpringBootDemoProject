@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # Simple Spring MVC
   Created a simple Spring MVC by following a tutorial by Code Java
 
@@ -17,11 +19,13 @@
 Test verifies that the application context starts
 
 ## Built With
+    
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE
 
-    IntelliJ IDEA - IDE
-    Maven - Dependency Management
-    Thymeleaf - Template Engine
+[Maven](https://maven.apache.org/) - Dependency Management
 
+[Thymeleaf](https://www.thymeleaf.org/) - Template Engine
+    
 ## Versioning
 
   Can be done automatically through spring initializr (https://start.spring.io/ or through IntelliJ)
