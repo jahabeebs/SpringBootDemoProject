@@ -36,6 +36,6 @@ Test verifies that the application context starts
 
 ## Acknowledgments
 
-    Code Java
-    Tutorial Link: https://www.youtube.com/watch?v=HTuE0GZtnM4
+Code Java
+[Tutorial Link](https://www.youtube.com/watch?v=HTuE0GZtnM4)
 
